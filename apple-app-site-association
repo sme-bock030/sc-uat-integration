@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "H9636WUCU4.com.sonymusic.consolestudiouat"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  }
+}
